@@ -1,0 +1,22 @@
+{
+  "name": "musea_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "musea-cli": "bin/musea_cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "javascript-obfuscator": "^4.0.0",
+    "node-localstorage": "^2.2.1",
+    "prompts": "^2.4.2",
+    "simple-ssh": "^1.1.0"
+  }
+}
